@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/KovalVladuslav/lady-school/static/css/main.a6017cf8.chunk.css",
+    "main.js": "/KovalVladuslav/lady-school/static/js/main.a99f0646.chunk.js",
+    "main.js.map": "/KovalVladuslav/lady-school/static/js/main.a99f0646.chunk.js.map",
+    "runtime-main.js": "/KovalVladuslav/lady-school/static/js/runtime-main.617ea330.js",
+    "runtime-main.js.map": "/KovalVladuslav/lady-school/static/js/runtime-main.617ea330.js.map",
+    "static/js/2.3f7f41fd.chunk.js": "/KovalVladuslav/lady-school/static/js/2.3f7f41fd.chunk.js",
+    "static/js/2.3f7f41fd.chunk.js.map": "/KovalVladuslav/lady-school/static/js/2.3f7f41fd.chunk.js.map",
+    "index.html": "/KovalVladuslav/lady-school/index.html",
+    "static/css/main.a6017cf8.chunk.css.map": "/KovalVladuslav/lady-school/static/css/main.a6017cf8.chunk.css.map",
+    "static/js/2.3f7f41fd.chunk.js.LICENSE.txt": "/KovalVladuslav/lady-school/static/js/2.3f7f41fd.chunk.js.LICENSE.txt",
+    "static/media/CardHeader.scss": "/KovalVladuslav/lady-school/static/media/decor-border-top.d9728564.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.617ea330.js",
+    "static/js/2.3f7f41fd.chunk.js",
+    "static/css/main.a6017cf8.chunk.css",
+    "static/js/main.a99f0646.chunk.js"
+  ]
+}
