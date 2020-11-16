@@ -1,0 +1,19 @@
+@import "~bootstrap/scss/bootstrap";
+@import "src/styles/variables";
+@import "src/styles/global";
+
+.card_mission {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  @include media-breakpoint-up(md) {
+    flex-direction: row;
+    text-align: left;
+  }
+
+  &_wrapper {
+    @include media-breakpoint-up(md) {
+      max-width: 420px;
+    }
+  }
+}

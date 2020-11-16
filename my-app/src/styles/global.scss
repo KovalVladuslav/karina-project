@@ -1,0 +1,44 @@
+@import "~bootstrap/scss/bootstrap";
+@import "variables";
+
+h1 {
+  margin-bottom: 0;
+}
+
+h1, h2 {
+  color: $title;
+}
+
+h2 {
+  margin-bottom: 15px;
+  font-size: $h2;
+
+  @include media-breakpoint-up(md) {
+    margin-bottom: 25px;
+  }
+}
+
+p {
+  color: $description;
+  font-size: $md;
+  margin-bottom: 0;
+}
+
+.divider {
+  background-color: $element;
+  border-radius: 0.5px;
+  &_vertical {
+    height: 1px;
+    margin: 30px auto;
+    width: 100px;
+  }
+  &_horizontal {
+      width: 2px;
+      height: 95px;
+      margin: auto 45px;
+    @include media-breakpoint-up(lg) {
+      height: 75px;
+      margin: auto 75px;
+    }
+  }
+}

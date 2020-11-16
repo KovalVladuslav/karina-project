@@ -1,0 +1,10 @@
+@mixin font($font-family) {
+  @font-face {
+    font-family: $font-family;
+    src: url('public/fonts/' + $font-family + '.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+}
+
+@include font('Silver-Sout-Serif');
